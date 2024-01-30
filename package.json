@@ -1,0 +1,12 @@
+{
+  "name": "clases-scope-clousures",
+  "version": "1.0.0",
+  "description": "curso de como funciona scope y clousures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
